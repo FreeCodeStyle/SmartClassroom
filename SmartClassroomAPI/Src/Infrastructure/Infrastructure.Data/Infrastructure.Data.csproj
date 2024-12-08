@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>SmartClassroomAPI.Infrastructure.Data</RootNamespace>
+    <AssemblyName>SmartClassroomAPI.Infrastructure.Data</AssemblyName>
+  </PropertyGroup>
+
+</Project>

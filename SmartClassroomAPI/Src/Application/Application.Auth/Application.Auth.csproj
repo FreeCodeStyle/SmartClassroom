@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>SmartClassroomAPI.Application.Auth</RootNamespace>
+    <AssemblyName>SmartClassroomAPI.Application.Auth</AssemblyName>
+  </PropertyGroup>
+
+</Project>
